@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Matheus
-- 👀 I’m interested in PYTHON
 - 🌱 I’m currently learning Python
+- 🐊 Spiinnnn
+- 🎉 Python and Sqlite3 🔛🔝
